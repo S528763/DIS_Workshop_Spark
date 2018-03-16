@@ -4,7 +4,7 @@
 2. Run Powershell as Administrator
 3. Run the following command:
 .\bin\spark-submit .\LetterCount.py
-or 
+or
 .\bin\spark-submit .\LineCount.py
 4. Verify the results in the console.
 
